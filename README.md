@@ -1,4 +1,4 @@
-# ePass Backend API
+# ePass Backend API-v1
 
 ### Authentication
 * [x] Server Created.
@@ -9,7 +9,7 @@
 
 | Method | URI | Middleware |
 | :-----: | :---- | :-----:|
-| POST | /api/v1/simple | |
-| GET | /api/v1/test | |
+| POST | /v1/simple | |
+| GET | /v1/auth/signup | |
 
 

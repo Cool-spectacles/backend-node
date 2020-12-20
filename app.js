@@ -24,10 +24,10 @@ app.use((req, res, next) => {
     next();
 });
 
-var routes = require('./route/route');
+const api_v1_routes = require('./API/v1/Routes/Route');
 
 // Routes Handled By the Controllers.
-app.use('/api/v1', routes);
+app.use('/v1', api_v1_routes);
 
 // Error Handlers.
 app.use((req, res, next) => {
@@ -40,6 +40,7 @@ app.use((error, req, res, next) => {
     res.status(error.status || 500)
     res.json({
         error: {
+            status: error.status || 500,
             message: error.message,
             stack: error.stack
     }});
