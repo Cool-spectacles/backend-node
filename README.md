@@ -16,13 +16,13 @@
 ---
 
 ### PAY
-* [ ] Redirectto_pay_gatway(student,institute),
+* [ ] Redirectto_pay_gateway(student,institute),
 * [ ] Pay_verify(depot).
 ---
 
 ### Pass_GEN
-* [ ] Candi_Pay(clear)_Pass_Gen
-* [ ] Candi_Pay(Pen)_Pass_notGen
+* [ ] Candi_Pay(clear)_Pass_Gen,
+* [ ] Candi_Pay(Pen)_Pass_notGen.
 ---
 
 ### Pass_Expire
@@ -31,7 +31,14 @@
 ---
 
 ### DEV_OPPS
-* [ ] 
+* [ ] Registration_logs,
+* [ ] verify_logs,
+* [ ] Pass_change_logs,
+* [ ] Pass_Scheme_logs.
+* [ ] Candi_Detail_Verify(depot)_logs,
+* [ ] Pay_Gateway_logs,
+* [ ] Pass_Gen_logs,
+* [ ] Pass_Expire_logs.
 ---
 
 ## Routes
