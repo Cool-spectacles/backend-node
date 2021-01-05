@@ -9,23 +9,25 @@
 ---
 
 ### Pass_CRE
-* [ ] Can_detail,
+* [ ] Candi_detail,
 * [ ] Pass_Scheme,
-* [ ] Can_Detail_Verify(depot),
-* [ ] Gen_wait
+* [ ] Candi_Detail_Verify(depot),
+* [ ] Gen_wait.
 ---
 
 ### PAY
 * [ ] Redirectto_pay_gatway(student,institute),
-* [ ] 
+* [ ] Pay_verify(depot).
 ---
 
 ### Pass_GEN
-* [ ] 
+* [ ] Candi_Pay(clear)_Pass_Gen
+* [ ] Candi_Pay(Pen)_Pass_notGen
 ---
 
 ### Pass_Expire
-* [ ] 
+* [ ] Candi(end_date)_record,
+* [ ] Time_limitcross(inform_candi).
 ---
 
 ### DEV_OPPS
