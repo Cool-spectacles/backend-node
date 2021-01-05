@@ -2,10 +2,10 @@
 
 ### Authentication
 * [x] Server Created.
-* [] Registration,
-* [] Reg_verify,
-* [] 
-* [] Login, 
+* [ ] Registration,
+* [ ] Reg_verify,
+* [ ] 
+* [ ] Login, 
 ---
 
 ## Routes
