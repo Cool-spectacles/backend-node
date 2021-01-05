@@ -3,6 +3,8 @@
 ### Authentication
 * [x] Server Created.
 * [] Registration,
+* [] Reg_verify,
+* [] 
 * [] Login, 
 ---
 
