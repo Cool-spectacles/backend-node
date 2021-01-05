@@ -4,7 +4,7 @@
 * [x] Server Created.
 * [ ] Registration,
 * [ ] Reg_verify,
-* [ ] 
+* [ ] helo
 * [ ] Login, 
 ---
 
