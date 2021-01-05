@@ -2,7 +2,9 @@
 
 ### Authentication
 * [x] Server Created.
-
+* [] Registration,
+* [] Login,
+* [] 
 ---
 
 ## Routes
