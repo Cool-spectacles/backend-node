@@ -4,15 +4,19 @@
 * [x] Server Created.
 * [ ] Registration,
 * [ ] Reg_verify,
-* [ ] log_gen(dev_opps),
-* [ ] Login, 
+* [ ] Login,
+* [ ] Change_Pass.
 ---
 
 ### Pass_CRE
-* [ ] 
+* [ ] Can_detail,
+* [ ] Pass_Scheme,
+* [ ] Can_Detail_Verify(depot),
+* [ ] Gen_wait
 ---
 
 ### PAY
+* [ ] Redirectto_pay_gatway(student,institute),
 * [ ] 
 ---
 
@@ -24,7 +28,9 @@
 * [ ] 
 ---
 
-### DEV_OPPS_(?)
+### DEV_OPPS
+* [ ] 
+---
 
 ## Routes
 
