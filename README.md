@@ -2,7 +2,7 @@
 
 ### Authentication
 * [x] Server Created.
-* [x] Registration,
+* [] Registration,
 * [] Login, 
 ---
 
